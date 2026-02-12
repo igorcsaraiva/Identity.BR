@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="ValueObjects/Assets/logo.svg" alt="Identity.BR Logo" width="500"/>
+  <img src="Identity.BR/Assets/logo.svg" alt="Identity.BR Logo" width="500"/>
 </p>
 
 ![Nuget](https://img.shields.io/nuget/v/Identity.BR)
@@ -168,10 +168,10 @@ listaNegra.Add(c1);
 A biblioteca foi desenhada para superar implementações tradicionais baseadas em Regex ou manipulação excessiva de strings.
 
 Benchmark CNPJ
-![benchmark CNPJ](ValueObjects/Assets/benchmarkCNPJ.png)
+![benchmark CNPJ](Identity.BR/Assets/benchmarkCNPJ.png)
 
 Benchmark CPF
-![benchmark CPF](ValueObjects/Assets/benchmarkCPF.png)
+![benchmark CPF](Identity.BR/Assets/benchmarkCPF.png)
 
 *Resultados baseados em testes com BenchmarkDotNet no .NET 8.0.*
 
